@@ -139,7 +139,7 @@ plt.show()
 # In[15]:
 
 
-barWidth = 0.25
+barWidth = 0.2
 fig = plt.subplots(figsize =(12, 8))
  
 # set height of bar
